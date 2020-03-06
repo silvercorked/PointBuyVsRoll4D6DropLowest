@@ -1,5 +1,3 @@
-package org.point.buy;
-
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Random;
