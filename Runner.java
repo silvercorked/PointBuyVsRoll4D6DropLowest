@@ -1,5 +1,3 @@
-package org.point.buy;
-
 import java.math.BigDecimal;
 import java.util.ArrayList;
 
